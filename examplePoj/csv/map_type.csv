@@ -1,0 +1,7 @@
+idx,type,army_type,resistance,des
+idx,type,army_type,resistance,des
+i,i,i,i,s
+1.0,MAP_TYPE_LAND,AMRY_TYPE_HORSE,10.0,empty
+2.0,MAP_TYPE_LAND,AMRY_TYPE_SPEAR,10.0,empty
+3.0,MAP_TYPE_LAND,AMRY_TYPE_SHIELD,10.0,empty
+4.0,MAP_TYPE_LAND,AMRY_TYPE_HORSE,10.0,empty

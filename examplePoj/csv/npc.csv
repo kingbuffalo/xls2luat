@@ -1,0 +1,6 @@
+自增idx,map_id,npc_id,enemy_id  2W~3W  不同的npc可以有相同的enemyId,hero_ids,army_attr_arr,hero_attr_arr,bleed,max_bleed,food,coin,morale,skill_ids,pos,"target{targetType,targetV}",strategy
+idx,map_id,npc_id,enemy_id,hero_ids,army_attr_arr,hero_attr_arr,bleed,max_bleed,food,coin,morale,skill_ids,pos,target,strategy
+i,i,i,i,t,t,t,i,i,i,i,i,t,t,t,i
+1.0,1.0,1.0,1.0,"{1,2,3}","{{1,2},{3,4}}","{{1,2},{3,4}}",1000.0,1000.0,2000.0,100.0,100.0,"{1001,2001}","{100,100}","{TARGET_TYPE_CITY,1}",STRATEGY_TYPE_ATTACK
+2.0,1.0,1.0,2.0,"{1,2,3}","{{1,2},{3,5}}","{{1,2},{3,5}}",1000.0,1000.0,2000.0,100.0,100.0,"{1001,2001}","{100,101}","{TARGET_TYPE_CITY,1}",STRATEGY_TYPE_ATTACK
+3.0,1.0,1.0,3.0,"{1,2,3}","{{1,2},{3,6}}","{{1,2},{3,6}}",1000.0,1000.0,2000.0,100.0,100.0,"{1001,2001}","{100,102}","{TARGET_TYPE_CITY,1}",STRATEGY_TYPE_ATTACK

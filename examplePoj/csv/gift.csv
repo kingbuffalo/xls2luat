@@ -1,0 +1,4 @@
+gift_id,"out_res {{loc,itemid,count}}"
+gift_id,out_res
+i,t
+20000001.0,"{{LOC_BAG,10010001,100}}"

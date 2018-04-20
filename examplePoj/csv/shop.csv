@@ -1,0 +1,8 @@
+shop_id,need_res,"out_res {{loc,itemid,count}}",discount,"limit{limittype,times}","price{pricetype,inc_price}"
+shop_id,need_res,out_res,discount,limit,price
+i,t,t,i,t,t
+1.0,"{{LOC_BASE_RES,BASE_RES_COIN,100}}","{{LOC_BAG,100,1}}",10000.0,"{SHOP_LIMIT_TYPE_NONE,0}","{SHOP_PRICE_TYPE_STATIC,0}"
+2.0,"{{LOC_BASE_RES,BASE_RES_COIN,101}}","{{LOC_BAG,100,2}}",10000.0,"{SHOP_LIMIT_TYPE_DAY,3}","{SHOP_PRICE_TYPE_STATIC,0}"
+3.0,"{{LOC_BASE_RES,BASE_RES_COIN,102}}","{{LOC_BAG,100,3}}",10000.0,"{SHOP_LIMIT_TYPE_WEEK,4}","{SHOP_PRICE_TYPE_INC,100}"
+4.0,"{{LOC_BASE_RES,BASE_RES_COIN,103}}","{{LOC_BAG,100,4}}",10000.0,"{SHOP_LIMIT_TYPE_WHOLE,1}","{SHOP_PRICE_TYPE_INC,100}"
+5.0,"{{LOC_BASE_RES,BASE_RES_COIN,104}}","{{LOC_BAG,100,5}}",10000.0,"{SHOP_LIMIT_TYPE_NONE,0}","{SHOP_PRICE_TYPE_INC,100}"

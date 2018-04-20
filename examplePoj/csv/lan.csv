@@ -1,0 +1,4 @@
+key,value,showtype,regex1,regex2,regex3,regex4,regex5,regex6,regex7   一共有16种类型 也就是有4位bit可以使用  只支持7个替换
+key,value,showtype,regex1,regex2,regex3,regex4,regex5,regex6,regex7
+s,s,i,i,i,i,i,i,i,i
+cmd_login_0,登陆成功,LAN_SHOW_TYPE_TXT,0.0,0.0,0.0,0.0,0.0,0.0,0.0

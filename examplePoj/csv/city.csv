@@ -1,0 +1,5 @@
+idx,city_id,x,y,type,name
+idx,city_id,x,y,type,name
+i,i,i,i,i,s
+1.0,1.0,3.0,3.0,CITY_TYPE_CITY,测试
+2.0,2.0,20.0,20.0,CITY_TYPE_CITY,测试

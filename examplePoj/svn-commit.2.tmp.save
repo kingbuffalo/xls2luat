@@ -1,0 +1,23 @@
+:c:qa
+:
+--This line, and those below, will be ignored--
+
+A    csv/army_cfg.csv
+A    csv/army_level.csv
+M    csv/army_skill.csv
+A    csv/army_weapon.csv
+M    csv/build.csv
+M    csv/build_level.csv
+M    csv/city.csv
+M    csv/city_level.csv
+A    csv/city_road.csv
+M    csv/enum.csv
+A    csv/hero_add_exp.csv
+M    csv/hero_level.csv
+M    csv/hero_level_attr.csv
+M    csv/hero_star.csv
+M    csv/hero_star_attr.csv
+M    csv/item.csv
+A    csv/lan.csv
+M    csv/npc.csv
+A    csv/shop.csv
